@@ -1,0 +1,11 @@
+[
+    {
+        "impressionData": true,
+        "enabled": true,
+        "name": "Walgreens-festive-discounts",
+        "description": "festive discounts toggle feature.",
+        "project": "default",
+        "stale": false,
+        "type": "release"
+    }
+]
