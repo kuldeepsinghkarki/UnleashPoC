@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@unleash/proxy": "^0.11.7"
+  }
+}
