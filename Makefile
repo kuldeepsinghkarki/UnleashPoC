@@ -3,7 +3,6 @@
 unleash-server-username :=admin
 unleash-server-password :=unleash4all
 
-
 all:start
 
 start: startDB startUnleashServer startUnleashProxy startFrontEndClient
